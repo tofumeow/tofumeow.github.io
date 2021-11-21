@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-07-01
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Two papers, <a href="https://arxiv.org/abs/2107.13048">Patch-GCN</a> and Multimodal Co-Attention Transformers (MCAT), were accepted into MICCAI 2021 and ICCV 2021 respectively.
+
